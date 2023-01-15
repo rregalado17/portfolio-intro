@@ -2,7 +2,10 @@ import React from 'react'
 
 export const Homepage = () => {
   return (
-    <div>Welcome to my Portfolio</div>
+    <div>
+      <h2>Welcome to my Portfolio</h2>
+      
+    </div>
   )
 }
 
